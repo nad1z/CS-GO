@@ -1,4 +1,4 @@
-# CSGO
+# CS:GO
 Config files
 This is my latest cs:go config file.
 The Autoexec includes:
